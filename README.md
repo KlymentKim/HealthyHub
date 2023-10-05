@@ -1,1 +1,1 @@
-# healthyHub-frontend
+# HealthyHub
