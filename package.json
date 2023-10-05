@@ -1,8 +1,8 @@
 {
-  "name": "healthyhub-frontend",
+  "name": "healthyhub",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AndriiZlt.github.io/healthyHub-frontend/",
+  "homepage": "https://KlymentKim.github.io/HealthyHub/",
   "dependencies": {
     "@redux-devtools/extension": "^3.2.5",
     "@reduxjs/toolkit": "^1.9.5",
